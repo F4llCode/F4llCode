@@ -22,7 +22,7 @@ Soon
 
 ## 📈 GitHub Stats
 
-[![F4ll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/yourusername)
+[![F4ll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/F4llCode)
 
 ## 🌍 Let's Connect
 
